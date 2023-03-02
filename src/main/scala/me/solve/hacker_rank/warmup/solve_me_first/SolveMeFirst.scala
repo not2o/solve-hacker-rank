@@ -1,4 +1,4 @@
-package me.solve.hacker_rank.solve_me_first
+package me.solve.hacker_rank.warmup.solve_me_first
 
 object SolveMeFirst {
 
