@@ -1,4 +1,4 @@
-package me.solve.hacker_rank.stair_case
+package me.solve.hacker_rank.warmup.stair_case
 
 import me.solve.hacker_rank.warmup.stair_case.StairCase
 
