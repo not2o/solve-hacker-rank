@@ -1,4 +1,4 @@
-package me.solve.hacker_rank.plus_minus
+package me.solve.hacker_rank.warmup.plus_minus
 
 import me.solve.hacker_rank.warmup.plus_minus.PlusMinus
 
